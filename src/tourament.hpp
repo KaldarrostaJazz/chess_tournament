@@ -2,7 +2,7 @@
 #define TOURNAMENT_HPP
 #include "player.hpp"
 #include <vector>
-class Tournament () {
+class Tournament {
 	private:
 		std::vector<Player> entrants;
 	public:
