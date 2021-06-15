@@ -1,4 +1,4 @@
-#Chess tournament orginizer and rating system.
+# Chess tournament orginizer and rating system.
 Still work in progress.<br>
 
 A program to orginize a chess torunament and update the players' rating at the end of the event.<br>
