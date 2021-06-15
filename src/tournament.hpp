@@ -3,10 +3,9 @@
 #include "player.hpp"
 #include <vector>
 class Tournament {
-	private:
-		std::vector<Player> entrants;
 	public:
 		Tournament() = default;
+		std::vector<Player> entrants;
 		void add_entrant(Player const& player) {
 			entrants.push_back(player);
 		}
